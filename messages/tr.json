@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "work": "Projeler",
+    "experience": "Deneyim",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "badge": "Freelance projeler için uygun",
+    "title1": "Dijital",
+    "title2": "Başyapıtlar",
+    "description": "Harika kullanıcı deneyimi sunan, etkileşimli, duyarlı ve performans odaklı web uygulamaları geliştiriyorum.",
+    "explore": "Çalışmalarımı İncele",
+    "resume": "Özgeçmiş",
+    "years": "4+ Yıl",
+    "exp": "Deneyim"
+  },
+  "skills": {
+    "title": "Benim",
+    "subtitle": "Yeteneklerim",
+    "description": "Dijital ürünleri hayata geçirmek için kullandığım araçlar ve teknolojiler.",
+    "yearsExp": "Yıllık Deneyim",
+    "projects": "Tamamlanan Proje",
+    "clients": "Mutlu Müşteri",
+    "workExp": "İş Deneyimi",
+    "experiences": [
+      {
+        "company": "TechNova Çözümleri",
+        "role": "Twin up Stajyer",
+        "period": "2026 - Günümüz",
+        "description": "Ölçeklenebilir SaaS projeleri geliştiren ekipte Full Stack Developer stajyeri olarak görev aldım. Modern web teknolojileri üzerinde kendimi geliştirerek hem frontend hem backend süreçlerinde aktif rol aldım ve performans optimizasyonları konusunda deneyim kazandım. Geliştirme sürecini aktif olarak öğrenmeye ve projelere katkı sağlamaya devam ediyorum."
+      },
+      {
+        "company": "Kreatif Dijital",
+        "role": "Web Geliştirici",
+        "period": "2019 - 2022",
+        "description": "React ve modern CSS çerçevelerini kullanarak birden fazla müşteri web sitesi geliştirdim ve sürdürdüm."
+      },
+      {
+        "company": "StartUp Inc",
+        "role": "Junior Geliştirici",
+        "period": "2018 - 2019",
+        "description": "Dahili bir panel aracı için kullanıcı arayüzü bileşenleri oluşturmaya ve durum yönetimine yardımcı oldum."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Öne Çıkan",
+    "subtitle": "Projeler",
+    "description": "Farklı sektörlerden ve teknolojilerden seçilmiş güncel çalışmalarım.",
+    "github": "GitHub",
+    "items": [
+      {
+        "title": "E-Ticaret Paneli",
+        "description": "E-ticaret platformları için kapsamlı admin paneli. Gerçek zamanlı analitik ve stok yönetimi özelliklerine sahiptir."
+      },
+      {
+        "title": "AI Görsel Oluşturucu",
+        "description": "OpenAI DALL-E 3 API kullanarak metinlerden yüksek kaliteli görseller oluşturan SaaS uygulaması."
+      },
+      {
+        "title": "Finans Mobil Uygulaması",
+        "description": "Kişisel finans yönetimi için çapraz platform mobil uygulama. Gider takibi ve bütçe planlama sunar."
+      },
+      {
+        "title": "Ortak Çalışma Alanı",
+        "description": "Gerçek zamanlı ortak belge düzenleyici, zengin metin formatlama ve ekip organizasyonu."
+      },
+      {
+        "title": "Canlı Sohbet Uygulaması",
+        "description": "Grup sohbetleri, dosya paylaşımı ve anlık yazıyor göstergeleri ile uçtan uca şifreli mesajlaşma."
+      },
+      {
+        "title": "Portfolyo v1",
+        "description": "Modern web teknolojileri ile oluşturulmuş, performans ve erişilebilirlik odaklı ilk kişisel sitem."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hadi",
+    "subtitle": "Bağlantı Kuralım",
+    "description": "Aklınızda bir proje mi var yoksa sadece merhaba mı demek istiyorsunuz? Sizi dinlemek isterim.",
+    "info": "İletişim Bilgileri",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "location": "Konum",
+    "nameLabel": "İsim",
+    "emailLabel": "E-posta",
+    "subjectLabel": "Konu",
+    "messageLabel": "Mesaj",
+    "send": "Mesaj Gönder",
+    "placeholderName": "İsminiz",
+    "placeholderSubject": "Proje Talebi",
+    "placeholderMessage": "Projenizden bahsedin..."
+  },
+  "footer": {
+    "builtWith": " Tüm hakları saklıdır.",
+    "passion": ""
+  }
+}

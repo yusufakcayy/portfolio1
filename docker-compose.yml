@@ -1,0 +1,14 @@
+services:
+  portfolio-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: portfolio-web
+    ports:
+      - "3005:3000"
+    networks:
+      - portfolio-network
+
+networks:
+  portfolio-network:
+    driver: bridge

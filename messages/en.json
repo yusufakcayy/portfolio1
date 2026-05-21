@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Available for freelance work",
+    "title1": "Crafting Digital",
+    "title2": "Masterpieces",
+    "description": "I build interactive, responsive, and performance-driven web applications that provide an outstanding user experience.",
+    "explore": "Explore My Work",
+    "resume": "Resume",
+    "years": "4+ Years",
+    "exp": "Experience"
+  },
+  "skills": {
+    "title": "My",
+    "subtitle": "Superpowers",
+    "description": "The tools and technologies I use to bring digital products to life.",
+    "yearsExp": "Years Experience",
+    "projects": "Projects Completed",
+    "clients": "Happy Clients",
+    "workExp": "Work Experience",
+    "experiences": [
+      {
+        "company": "TechNova Solutions",
+        "role": "Twin up Intern",
+        "period": "2026 - Present",
+        "description": "I worked as a Full Stack Developer intern in the team developing scalable SaaS projects. By improving myself in modern web technologies, I took an active role in both frontend and backend processes and gained experience in performance optimizations. I continue to actively learn the development process and contribute to projects."
+      },
+      {
+        "company": "Creative Digital",
+        "role": "Web Developer",
+        "period": "2019 - 2022",
+        "description": "Developed and maintained multiple client websites using React and modern CSS frameworks."
+      },
+      {
+        "company": "StartUp Inc",
+        "role": "Junior Developer",
+        "period": "2018 - 2019",
+        "description": "Assisted in building UI components and managing state for an internal dashboard tool."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured",
+    "subtitle": "Projects",
+    "description": "A selection of my recent works across different industries and technologies.",
+    "github": "GitHub",
+    "items": [
+      {
+        "title": "E-Commerce Dashboard",
+        "description": "A comprehensive admin dashboard for e-commerce platforms. Features real-time analytics, inventory management, and order tracking."
+      },
+      {
+        "title": "AI Image Generator",
+        "description": "SaaS application that generates high-quality images from text descriptions using OpenAI's DALL-E 3 API."
+      },
+      {
+        "title": "FinTech Mobile App",
+        "description": "A cross-platform mobile application for personal finance management. Users can track expenses and set budgets."
+      },
+      {
+        "title": "Collaborative Workspace",
+        "description": "Real-time collaborative document editor with presence indicators, rich text formatting, and team organization."
+      },
+      {
+        "title": "Real-time Chat App",
+        "description": "End-to-end encrypted messaging platform with group chats, file sharing, and real-time indicators."
+      },
+      {
+        "title": "Portfolio v1",
+        "description": "My first personal portfolio website built with modern web technologies, focusing on performance."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's",
+    "subtitle": "Connect",
+    "description": "Have a project in mind or just want to say hi? I'd love to hear from you.",
+    "info": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "send": "Send Message",
+    "placeholderName": "Your Name",
+    "placeholderSubject": "Project Inquiry",
+    "placeholderMessage": "Tell me about your project..."
+  },
+  "footer": {
+    "builtWith": "Built with Next.js and Tailwind CSS. All rights reserved.",
+    "passion": "Designed with passion."
+  }
+}
